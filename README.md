@@ -48,6 +48,8 @@ HTML
 CSS
 Google Fonts (Raleway)
 Ícones SVG personalizados
-Créditos
+
+
+# Créditos
 Este projeto foi desenvolvido como parte do Desafio Front da Digital Innovation One (DIO). A página foi criada com base nas diretrizes fornecidas no desafio.
 
